@@ -10,14 +10,13 @@ Usage:
 To use the real-time clock, simply open the index.html file in a web browser. The clock will automatically start ticking and display the current time.
 
 Technologies Used:
-HTML
-CSS
-JavaScript
-Installation:
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+
+<br>Installation:
 No installation is required to use the real-time clock. Simply download or clone the repository, and open the index.html file in a web browser.
 
-Contributing:
+<br>Contributing:
 Contributions to this project are welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
