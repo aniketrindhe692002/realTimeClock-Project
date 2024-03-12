@@ -2,14 +2,16 @@
 This project is a real-time clock implemented using HTML, CSS, and JavaScript. It displays the current time with hour, minute, and second hands, providing a visual representation of the time that updates dynamically.
 
 Features:
-Displays the current time accurately, updating in real-time.
-Designed with a modern and minimalistic user interface.
-Utilizes HTML for the structure, CSS for styling, and JavaScript for dynamic functionality.
-Customizable styles and configurations to suit different preferences.
-Usage:
+<ul>
+<li>Displays the current time accurately, updating in real-time.</li>
+<li>Designed with a modern and minimalistic user interface.</li>
+<li>Utilizes HTML for the structure, CSS for styling, and JavaScript for dynamic functionality.</li>
+<li>Customizable styles and configurations to suit different preferences.</li>
+</ul>
+<br>Usage:
 To use the real-time clock, simply open the index.html file in a web browser. The clock will automatically start ticking and display the current time.
 
-Technologies Used:
+<br>Technologies Used:
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
