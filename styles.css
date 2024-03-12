@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center; /* horizontally center the content */
+    align-items: center; /* vertically center the content */
+    height: 100vh; /* make the body take the full viewport height */
+}
+
+.clock {
+    border: 2px solid rgb(248, 201, 12); 
+    height: 180px;
+    width: 500px;
+    background-color: black;
+    text-align: center;
+    box-shadow: 5px 5px 10px 0 rgba(248, 201, 12, 0.5);
+    display: flex;
+    justify-content: center; /* horizontally center the content */
+    align-items: center; /* vertically center the content */
+}
+
+.number {
+    color: white;
+    font-size: 70px;
+    letter-spacing: 2px;
+}
+
+.clock span {
+    color: white;
+    font-size: 70px;
+}
